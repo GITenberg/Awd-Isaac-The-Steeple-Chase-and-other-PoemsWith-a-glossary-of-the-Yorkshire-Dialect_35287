@@ -1,0 +1,31 @@
+_repo: Awd-Isaac-The-Steeple-Chase-and-other-PoemsWith-a-glossary-of-the-Yorkshire-Dialect_35287
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castillo, John
+    birthdate: 1792
+    deathdate: 1845
+    gutenberg_agent_id: '37577'
+    url: http://www.gutenberg.org/2009/agents/37577
+description: ''
+gutenberg_issued: '2011-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35287'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- England -- Yorkshire'
+- !lcsh 'English poetry'
+- !lcsh 'Yorkshire (England) -- Poetry'
+- !lcc 'PR'
+- !lcsh 'English language -- Dialects -- England -- Yorkshire'
+- !lcsh 'English language -- Dialects'
+title: "Awd Isaac, The Steeple Chase, and Other Poems\r\nWith a glossary of the Yorkshire\
+  \ Dialect"
+url: http://www.gutenberg.org/ebooks/35287
